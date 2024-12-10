@@ -32,7 +32,7 @@ func main() {
 	case "47":
 		chapterthree.WaitGroup()
 	case "49":
-		chapterthree.Mutext()
+		chapterthree.Mutex()
 	case "51":
 		chapterthree.RWMutex()
 	}

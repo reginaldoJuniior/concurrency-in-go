@@ -2,7 +2,7 @@ package chapterthree
 
 import "sync"
 
-func Mutext() {
+func Mutex() {
 	var count int
 	var lock sync.Mutex
 
